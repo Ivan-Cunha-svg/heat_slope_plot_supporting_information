@@ -1,0 +1,15 @@
+(0) phi of the appendix against a numerical derivative of ln F~, and eq D2 against a finite difference (largest differences)
+    Langmuir   phi: 8.8e-11;  eq D2: 2.3e-08 kJ/mol
+    Toth 0.3   phi: 1.2e-10;  eq D2: 7.9e-09 kJ/mol
+    Toth 0.5   phi: 1.5e-10;  eq D2: 2.6e-08 kJ/mol
+    Toth 2     phi: 9.5e-11;  eq D2: 5.5e-08 kJ/mol
+    Jovanovic  phi: 5.7e-10;  eq D2: 3.2e-05 kJ/mol
+(i), (ii) over 300 random discrete spectra and the 16 continuous distributions of the bench: largest slope m minus one; largest increase of Q between neighbouring pressures (kJ/mol)
+    Langmuir   max(m) - 1 = +0.0e+00;  largest rise of Q = +2.8e-14
+    Toth 0.3   max(m) - 1 = -4.8e-06;  largest rise of Q = +1.4e-14
+    Toth 0.5   max(m) - 1 = -1.4e-09;  largest rise of Q = +1.4e-14
+    Toth 2     max(m) - 1 = +0.0e+00;  largest rise of Q = +4.3e-14
+    Jovanovic  max(m) - 1 = +0.0e+00;  largest rise of Q = +2.8e-14
+outside the hypotheses (Langmuir local isotherm):
+    prefactor e^-12 on the deeper of two types of site: Q rises from 30.0 to 45.0 kJ/mol
+    kernel with two subsites of the same depth (prefactors 1 and 400), sites of 45 and 40 kJ/mol: largest d2 ln F~/d(ln y)2 = +0.73 (not log-concave); Q falls to 41.45 and rises again to 43.55 kJ/mol

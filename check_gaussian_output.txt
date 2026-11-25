@@ -1,0 +1,21 @@
+RT = 2.494 kJ/mol at 300 K
+
+(1) Gaussian, Ebar = 35: Henry heat and range of the heat between theta = 1e-4 and 0.3
+  s = 1.0: q_H = 35.40 (Ebar + s^2/RT = 35.40); Q(0.3) = 35.15; range = 0.25 = 0.10 RT; m(0.3) = 0.678 (single site: 0.700)
+  s = 1.5: q_H = 35.90 (Ebar + s^2/RT = 35.90); Q(0.3) = 35.32; range = 0.58 = 0.23 RT; m(0.3) = 0.653 (single site: 0.700)
+  s = 2.0: q_H = 36.60 (Ebar + s^2/RT = 36.60); Q(0.3) = 35.52; range = 1.08 = 0.43 RT; m(0.3) = 0.622 (single site: 0.700)
+  s = 2.5: q_H = 37.50 (Ebar + s^2/RT = 37.51); Q(0.3) = 35.75; range = 1.75 = 0.70 RT; m(0.3) = 0.590 (single site: 0.700)
+  s = 3.0: q_H = 38.61 (Ebar + s^2/RT = 38.61); Q(0.3) = 36.00; range = 2.60 = 1.04 RT; m(0.3) = 0.556 (single site: 0.700)
+  s = 3.5: q_H = 39.90 (Ebar + s^2/RT = 39.91); Q(0.3) = 36.26; range = 3.65 = 1.46 RT; m(0.3) = 0.524 (single site: 0.700)
+  the range equals RT at s = 2.94 kJ/mol = 1.18 RT
+
+(2) single site, E = 35: tau at fixed z against (E/RT) theta
+  theta = 0.01: tau = 0.140; (E/RT) theta = 0.140
+  theta = 0.10: tau = 1.403; (E/RT) theta = 1.403
+  theta = 0.20: tau = 2.807; (E/RT) theta = 2.806
+  theta = 0.30: tau = 4.210; (E/RT) theta = 4.210
+
+(3) stretched exponential about E1 = 20 (rho = 2, E0 = 40): tau at fixed z against 1 + (rho-1) Ec/(Ec-E1)
+  Ec = 60: a/RT = 8.22; tau = 2.45; CA = 2.50
+  Ec = 80: a/RT = 5.48; tau = 2.28; CA = 2.33
+  Ec = 100: a/RT = 4.11; tau = 2.20; CA = 2.25

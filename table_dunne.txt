@@ -1,0 +1,25 @@
+CO2/NaX         32.8C  pts= 6  m_max=0.77  a/RT=1.42-3.08  Q=45.7-38.0  tau_n= 0.78+-0.06 (bench 0.33-0.98)  tau= 4.53+-0.27  Lambda=5.52 [4.93;6.27]  xi=-0.57 [-0.67;-0.49]  Eiso=51.9 [50.4;53.5]  k=1.7  extrap=0.8 widths  dQ/dn=-3.69  -> end point (effective edge)
+CO2/NaX         31.4C  pts= 6  m_max=0.76  a/RT=1.49-3.16  Q=45.5-37.3  tau_n= 0.83+-0.06 (bench 0.34-0.98)  tau= 4.25+-0.19  Lambda=5.01 [4.42;5.72]  xi=-0.53 [-0.64;-0.44]  Eiso=52.3 [50.5;54.3]  k=1.9  extrap=0.8 widths  dQ/dn=-3.58  -> end point (effective edge)
+SF6/NaX         31.6C  pts= 4  m_max=0.95  -> abstention (fewer than 5 points)
+CH4/NaX         31.3C  pts= 8  m_max=1.03  a/RT=0.99-1.06  Q=19.7-18.6  tau_n=-0.08+-0.08  tau=  nan+-nan  mean Q=19.3  range=1.0  dQ/dn=+1.15  -> Henry regime: tail not resolved
+CO2/Na-ZSM-5    24.1C  pts= 7  m_max=0.59  a/RT=1.74-2.50  Q=45.0-34.5  tau_n= 0.95+-0.05 (bench 0.48-0.99)  tau= 2.48+-0.15  Lambda=2.59 [2.43;2.78]  xi=-0.21 [-0.23;-0.19]  Eiso=65.2 [62.4;68.0]  k=4.8  extrap=1.9 widths  dQ/dn=-22.73  -> Gumbel tail: stretched, rho = Lambda
+N2/Na-ZSM-5     21.9C  pts= 9  m_max=0.84  a/RT=1.19-1.31  Q=23.1-19.3  tau_n= 0.59+-0.09 (bench 0.21-0.75)  tau= 1.28+-0.13  Lambda=1.71 [1.52;2.08]  xi=-0.10 [-0.14;-0.08]  Eiso=52.3 [43.4;61.2]  k=10.0  extrap=7.8 widths  dQ/dn=-11.75  -> Gumbel tail: stretched, rho = Lambda
+CO2/H-ZSM-5     23.9C  pts= 5  m_max=0.78  a/RT=1.30-1.55  Q=32.6-29.0  tau_n= 0.65+-0.12 (bench 0.31-0.87)  tau= 1.69+-0.23  Lambda=2.69 [2.24;3.67]  xi=-0.20 [-0.31;-0.14]  Eiso=48.3 [41.8;54.8]  k=5.1  extrap=4.5 widths  dQ/dn=-8.42  -> Gumbel tail: stretched, rho = Lambda
+CO2/H-ZSM-5     22.5C  pts= 7  m_max=0.81  a/RT=1.25-1.60  Q=32.6-28.5  tau_n= 0.59+-0.08 (bench 0.30-0.88)  tau= 1.71+-0.13  Lambda=2.85 [2.47;3.51]  xi=-0.21 [-0.29;-0.17]  Eiso=46.9 [42.6;51.2]  k=4.7  extrap=3.4 widths  dQ/dn=-8.44  -> Gumbel tail: stretched, rho = Lambda
+C2H6/NaX        32.4C  pts= 4  m_max=0.99  -> abstention (fewer than 5 points)
+O2/NaX          33.2C  pts= 5  m_max=1.05  a/RT=0.96-1.04  Q=16.5-13.1  tau_n= 0.23+-0.21  tau=  nan+-nan  mean Q=15.2  range=3.4  dQ/dn=-19.69  -> Henry regime: tail not resolved
+N2/NaX          32.5C  pts= 9  m_max=1.02  a/RT=0.98-1.08  Q=20.1-17.6  tau_n= 0.16+-0.08  tau=  nan+-nan  mean Q=19.1  range=2.5  dQ/dn=-3.19  -> Henry regime: tail not resolved
+Ar/NaX          31.0C  pts= 7  m_max=1.02  a/RT=0.99-1.03  Q=14.6-11.9  tau_n=-0.12+-0.11  tau=  nan+-nan  mean Q=12.9  range=2.7  dQ/dn=+3.14  -> Henry regime: tail not resolved
+C2H6/Na-ZSM-5   22.6C  pts= 5  m_max=0.81  a/RT=1.24-1.54  Q=36.5-34.4  tau_n= 0.36+-0.10 (bench 0.29-0.87)  tau= 1.74+-0.23  mean Q=35.2  range=2.0  dQ/dn=-4.84  -> homogeneous
+C2H6/Na-ZSM-5   24.1C  pts= 6  m_max=0.82  a/RT=1.24-1.56  Q=36.5-34.5  tau_n= 0.37+-0.11 (bench 0.29-0.87)  tau= 1.96+-0.28  mean Q=35.2  range=1.9  dQ/dn=-4.32  -> homogeneous
+SF6/Na-ZSM-5    22.2C  pts= 5  m_max=0.75  a/RT=1.36-1.60  Q=39.1-38.0  tau_n= 0.20+-0.11 (bench 0.32-0.88)  tau= 1.29+-0.22  mean Q=38.3  range=1.2  dQ/dn=-2.59  -> homogeneous
+CH4/Na-ZSM-5    23.3C  pts= 9  m_max=0.85  a/RT=1.18-1.49  Q=24.8-22.8  tau_n= 0.32+-0.08 (bench 0.25-0.87)  tau= 1.76+-0.17  mean Q=23.8  range=2.0  dQ/dn=-4.01  -> homogeneous
+Ar/Na-ZSM-5     23.2C  pts= 8  m_max=0.98  a/RT=1.03-1.06  Q=17.9-15.8  tau_n= 0.30+-0.11  tau=  nan+-nan  mean Q=16.8  range=2.1  dQ/dn=-7.02  -> Henry regime: tail not resolved
+C2H6/H-ZSM-5    21.3C  pts= 6  m_max=0.90  a/RT=1.12-1.45  Q=33.0-32.7  tau_n= 0.05+-0.16 (bench 0.21-0.87)  tau= 2.89+-0.38  mean Q=32.8  range=0.3  dQ/dn=-0.50  -> homogeneous
+SF6/H-ZSM-5     21.7C  pts= 6  m_max=0.88  a/RT=1.16-1.61  Q=36.2-34.9  tau_n=-0.21+-0.11 (bench 0.26-0.88)  tau= 3.19+-0.28  mean Q=35.4  range=1.3  dQ/dn=+3.16  -> homogeneous
+N2/H-ZSM-5      21.3C  pts= 6  m_max=0.93  a/RT=1.08-1.10  Q=19.8-16.8  tau_n= 0.85+-0.20  tau=  nan+-nan  mean Q=18.4  range=3.0  dQ/dn=-16.16  -> Henry regime: tail not resolved
+
+heat attributed to the end of the dose: CO2/NaX         32.8C  pts= 6  m_max=0.77  a/RT=1.45-3.18  Q=45.7-38.0  tau_n= 0.87+-0.06 (bench 0.33-0.97)  tau= 4.72+-0.35  Lambda=5.53 [4.95;6.30]  xi=-0.59 [-0.69;-0.51]  Eiso=52.1 [50.6;53.7]  k=1.7  extrap=0.8 widths  dQ/dn=-3.61  -> end point (effective edge)
+formal window n <= 0.3 Ns: CO2/NaX         32.8C  pts= 3  m_max=0.77  -> abstention (fewer than 5 points)
+heat attributed to the end of the dose: CO2/NaX         31.4C  pts= 5  m_max=0.76  a/RT=1.53-3.06  Q=45.5-38.5  tau_n= 0.94+-0.08 (bench 0.34-0.98)  tau= 4.82+-0.27  Lambda=5.40 [4.68;6.42]  xi=-0.57 [-0.72;-0.47]  Eiso=52.3 [50.3;54.4]  k=1.7  extrap=1.0 widths  dQ/dn=-3.81  -> end point (effective edge)
+formal window n <= 0.3 Ns: CO2/NaX         31.4C  pts= 3  m_max=0.76  -> abstention (fewer than 5 points)
