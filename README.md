@@ -1,7 +1,7 @@
 # Supporting Information: code and data
 
 **A General Heat–Slope Plot for Heterogeneous Adsorbents: Classifying the Tail of the Adsorption Energy
-Distribution from Isotherms or Calorimetric Curves** (I. E. Cunha)
+Distribution from Isotherms and Calorimetric Curves** (I. E. Cunha)
 
 This archive contains the code of the protocol, the test bench with its results, the data of Dunne et al.
 with their analysis, the scripts of all figures, and the numerical checks quoted in the paper.
