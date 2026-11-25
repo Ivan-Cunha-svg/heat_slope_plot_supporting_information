@@ -31,7 +31,7 @@ from its own folder, e.g. `cd figs && python3 fig_pair.py`.
 | `style.py` | common style of the figures |
 | `fig_pair.py`, `fig_collapse.py`, `fig_ward.py`, `fig_dunne_ward.py`, `fig_toc.py` | Figures 1–4 and the TOC graphic (each writes a PDF and a PNG) |
 | `dunne_data.py` | data of Dunne et al. (Langmuir 1996, 12, 5896), Tables 4–23, transcribed |
-| `apply_dunne.py` → `table_dunne.txt` | the calorimetric route of `bench/protocol.py` applied to the 20 data sets (Table 4) |
+| `apply_dunne.py` → `table_dunne.txt` | the calorimetric route of `bench/protocol.py` applied to the 20 data sets (Table 5) |
 | `dunne_checks.py` → `dunne_checks.txt` | the checks quoted in the section on those data |
 | `check_identities.py` → `check_identities_output.txt` | numerical checks of the identities and numbers quoted in the text |
 | `check_gaussian.py` → `check_gaussian_output.txt` | Henry heat of a Gaussian, thermal index of a single site and of a shifted stretched exponential |
