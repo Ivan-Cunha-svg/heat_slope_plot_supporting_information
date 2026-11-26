@@ -29,7 +29,7 @@ from its own folder, e.g. `cd figs && python3 fig_pair.py`.
 | `model.py` | exact forward model (adsorption integral, Langmuir kernel) for the archetypal tails |
 | `ward.py` | York regression with errors in both variables, parametric bootstrap |
 | `style.py` | common style of the figures |
-| `fig_pair.py`, `fig_collapse.py`, `fig_ward.py`, `fig_dunne_ward.py`, `fig_toc.py` | Figures 1–4 and the TOC graphic (each writes a PDF and a PNG) |
+| `fig_pair.py`, `fig_collapse.py`, `fig_ward.py`, `fig_dunne_ward.py` | Figures 1–4 (each writes a PDF and a PNG) |
 | `dunne_data.py` | data of Dunne et al. (Langmuir 1996, 12, 5896), Tables 4–23, transcribed |
 | `apply_dunne.py` → `table_dunne.txt` | the calorimetric route of `bench/protocol.py` applied to the 20 data sets (Table 5) |
 | `dunne_checks.py` → `dunne_checks.txt` | the checks quoted in the section on those data |
